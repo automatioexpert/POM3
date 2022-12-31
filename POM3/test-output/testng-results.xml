@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31723" started-at="2022-09-17T19:07:50 IST" finished-at="2022-09-17T19:08:22 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31723" started-at="2022-09-17T19:07:50 IST" finished-at="2022-09-17T19:08:22 IST">
+      <class name="testcases.CheckOverviewPageTest">
+        <test-method status="PASS" signature="checkOutOverviewTest()[pri:0, instance:testcases.CheckOverviewPageTest@740abb5]" name="checkOutOverviewTest" duration-ms="30961" started-at="2022-09-17T19:07:50 IST" finished-at="2022-09-17T19:08:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOutOverviewTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.CheckOverviewPageTest@740abb5]" name="tearDown" is-config="true" duration-ms="685" started-at="2022-09-17T19:08:21 IST" finished-at="2022-09-17T19:08:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.CheckOverviewPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
